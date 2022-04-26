@@ -1,0 +1,19 @@
+.SuccessImg{
+    height: 60vh;
+    border-radius: 10%;
+}
+.LoginFormSuccessTitle{
+    text-align: center;
+    color:antiquewhite;
+    font-size: 50px;
+}
+
+.CloseSesionButton{
+    background-color: #fff;
+    color: #2148C0;
+    font-size: 30px;
+}
+
+.CloseSesionButton:hover{
+    background-color: rgb(177, 177, 177);
+}
